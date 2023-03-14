@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DARSHcverse, like mulitiverse.
-- 👀 I’m interested in many c/c++,c#,python coding 
-- 🌱 I’m currently learning Bachelor Of Information Technology, Major In Application Developer
+- 👋 Hi, I’m @DARSHcverse 4 Darshan Subramaniam
+- 👀 I’m interested in Java, c/c++, c#, python coding 
+- 🌱 I’m currently in Bachelor Of Information Technology, Major In Application Developer
 - 💞️ I’m looking to collaborate on teamworks with coding experts
 - 📫 How to reach me dharshansubramaniyam2@gmail.com
 
